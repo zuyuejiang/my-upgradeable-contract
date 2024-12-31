@@ -1,6 +1,6 @@
 # Upgradeable Vending Machine Smart Contract
 [Alchemy tutorial link](https://university.alchemy.com/course/ethereum/md/63bfe506016d9c00049221fc)
-My work: [📃 Proxy Contract](https://sepolia.etherscan.io/address/0x91199D2216721918BC60FB9094557f20Be5f0960) | [🍦V1](https://sepolia.etherscan.io/address/0x5D45F48670956b56Ad75F2120109325f6E9e01eD#code) [🍦V2](https://sepolia.etherscan.io/address/0x0BBC4E44777e61E267638a5D748965c66fB07Cdd#code) [🍦V3](https://sepolia.etherscan.io/address/0x6d91ead796aadb597d3ae48ab9e24bbb0e871880#code
+My work: 📃 [Proxy Contract](https://sepolia.etherscan.io/address/0x91199D2216721918BC60FB9094557f20Be5f0960) | 🍦[V1](https://sepolia.etherscan.io/address/0x5D45F48670956b56Ad75F2120109325f6E9e01eD#code) 🍦[V2](https://sepolia.etherscan.io/address/0x0BBC4E44777e61E267638a5D748965c66fB07Cdd#code) 🍦 [V3](https://sepolia.etherscan.io/address/0x6d91ead796aadb597d3ae48ab9e24bbb0e871880#code
 )
 
 ### setup instruction
